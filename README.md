@@ -1,0 +1,1 @@
+# inspec-cis-windows2016rtm-level2-memberserver
